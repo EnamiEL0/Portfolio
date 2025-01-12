@@ -15,7 +15,7 @@
 |-------------------------|----------------------------------------|-------------------------|------------------------------------------------------------------------------------------|
 | Smart Staking           | [smartstaking.io](https://smartstaking.io/) | 5 High, 7 Medium, 2 Low | [📄](https://blockhat.io/report-pdfs/01JH958TB16JYASTSQQV0Z0WBX.pdf) |
 | Clixpesa                | [clixpesa.com](https://clixpesa.com/)  | 9 High, 7 Medium, 10 Low | [📄](https://blockhat.io/report-pdfs/01JF3Q4XTA29TNHECH5XA11R7H.pdf) |
-| BlockPark               | [theblockpark.com]([https://theblockpark.com/](https://blockpark.gitbook.io/proptoken)) | 3 Medium, 6 Low          | [📄](https://blockhat.io/report-pdfs/01JF3QCYFHKYMC6FDW31SGRWDY.pdf) |
+| BlockPark               | [theblockpark.com](https://blockpark.gitbook.io/proptoken) | 3 Medium, 6 Low          | [📄](https://blockhat.io/report-pdfs/01JF3QCYFHKYMC6FDW31SGRWDY.pdf) |
 | MindX                  | [mindx.bot](https://mindx.bot/)         | 3 High, 3 Medium, 1 Low | [📄](https://blockhat.io/report-pdfs/01JH94WQCTNTF6XEAAB3WCAFMN.pdf) |
 | RaidTokenPool           | [raidtokenpool.com](-) | 5 High, 3 Medium        | [📄](https://blockhat.io/report-pdfs/01JH96YA1BTCDAEXVF7CK1322S.pdf) |
 | Casino Nite Coin Pusher | [nitefeeder.life](https://nitefeeder.life/) | 4 High, 6 Medium, 1 Low  | [📄](https://blockhat.io/report-pdfs/01JH96SN5TE6MYDM7HB0VR5Y24.pdf) |
