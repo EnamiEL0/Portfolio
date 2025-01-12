@@ -1,0 +1,40 @@
+
+# Audits
+## Private Engagements
+
+### Auditone
+
+|Project|Description|Findings|Report|
+|-------|-----------|--------|------|
+|LeverageX|Perpetuals|-|[📄](-)|
+
+
+### Blockhat 
+
+| Project Name            | Website                                | Findings                | Report                                                                                   |
+|-------------------------|----------------------------------------|-------------------------|------------------------------------------------------------------------------------------|
+| Smart Staking           | [smartstaking.io](https://smartstaking.io/) | 5 High, 7 Medium, 2 Low | [📄](https://blockhat.io/report-pdfs/01JH958TB16JYASTSQQV0Z0WBX.pdf) |
+| Clixpesa                | [clixpesa.com](https://clixpesa.com/)  | 9 High, 7 Medium, 10 Low | [📄](https://blockhat.io/report-pdfs/01JF3Q4XTA29TNHECH5XA11R7H.pdf) |
+| BlockPark               | [theblockpark.com](https://theblockpark.com/) | 3 Medium, 6 Low          | [📄](https://blockhat.io/report-pdfs/01JF3QCYFHKYMC6FDW31SGRWDY.pdf) |
+| SHEER                  | [worksheer.com](https://worksheer.com/) | 7 High, 2 Medium | [📄](https://blockhat.io/report-pdfs/01JH95E7W13F7Y2Z92FZXKCNNJ.pdf) |
+| MindX                  | [mindx.bot](https://mindx.bot/)         | 3 High, 3 Medium, 1 Low | [📄](https://blockhat.io/report-pdfs/01JH94WQCTNTF6XEAAB3WCAFMN.pdf) |
+| RaidTokenPool           | [raidtokenpool.com](https://raidtokenpool.com/) | 5 High, 3 Medium        | [📄](https://blockhat.io/report-pdfs/01JH96YA1BTCDAEXVF7CK1322S.pdf) |
+| Casino Nite Coin Pusher | [nitefeeder.life](https://nitefeeder.life/) | 4 High, 6 Medium, 1 Low  | [📄](https://blockhat.io/report-pdfs/01JH96SN5TE6MYDM7HB0VR5Y24.pdf) |
+| SCHNITZEL Coin          | [schnitzelcoin.io](https://schnitzelcoin.io/) | 2 High, 1 Medium, 1 Low  | [📄](https://blockhat.io/report-pdfs/01JH951JCPFBND49JRW7HGZKVF.pdf) |
+| PocketFinance           | [pocketfinance.app](https://pocketfinance.app/) | 1 High, 3 Medium     | [📄](https://blockhat.io/report-pdfs/01JH95N5GAA5BG3C47TD5342AN.pdf) |
+| TokenProtect            | [tokenprotect.com](https://tokenprotect.com/) | 2 High, 2 Medium, 3 Low  | [📄](https://blockhat.io/report-pdfs/01JH973NGZHPYM70XECJD8536T.pdf) |
+| MADNFT 1.0        | [madnfts.com](https://madnfts.com) | 2 High, 1 Medium     | [📄](https://blockhat.io/report-pdfs/01JF3Q9QG7WRDVX97670Q1M3YC.pdf) |
+
+
+
+
+
+
+# Development projects
+| Project Name           | Website                                     | Description                                      |
+|------------------------|---------------------------------------------|------------------------------------------------|
+| Nova Dox Token         | [nova-dox-token.com](https://www.nova-dox-token.com) | Presale platform with smart contracts.         |
+| Geekz World            | [geekz.world](https://geekz.world)          | Staking and presale platform.                  |
+| Nova Dox Hedge Fund    | [nova-dox-pool.com](https://nova-dox-pool.com) | Web3 hedge fund platform.                      |
+
+
