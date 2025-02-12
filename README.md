@@ -6,7 +6,7 @@
 
 |Project|Description|Findings|Report|
 |-------|-----------|--------|------|
-|LeverageX|Perpetuals|-|[📄](-)|
+|LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://app.auditone.io/u/enami)|
 
 
 ### Blockhat 
