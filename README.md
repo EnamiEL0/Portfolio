@@ -6,7 +6,7 @@
 
 |Project|Description|Findings|Report|
 |-------|-----------|--------|------|
-|LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://app.auditone.io/u/enami)|
+|LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://www.auditone.io/audit-report/leveragex-audit)|
 
 
 ### Blockhat 
