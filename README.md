@@ -29,14 +29,19 @@
 
 
 
-
-
-
 # Development projects
 | Project Name           | Website                                     | Description                                      |
 |------------------------|---------------------------------------------|------------------------------------------------|
 | Nova Dox Token         | [nova-dox-token.com](https://www.nova-dox-token.com) | Presale platform with smart contracts.         |
 | Geekz World            | [geekz.world](https://geekz.world)          | Staking and presale platform.                  |
 | Nova Dox Hedge Fund    | [nova-dox-pool.com](https://nova-dox-pool.com) | Web3 hedge fund platform.                      |
+
+**NB: I don't usually spend a lot of time on Code4rena due to my busy schedule with private engagements and cybersecurity projects, but here are some findings.**
+### Code4rena
+
+| Project Name            | Findings                | Report                                                                                   |
+|-------------------------|-------------------------|------------------------------------------------------------------------------------------|
+| Phi           | 1 H |[📄](https://code4rena.com/@enami_el  ) |
+| Concrete      | 1 M |[📄](https://code4rena.com/@enami_el  ) |
 
 
