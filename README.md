@@ -15,6 +15,7 @@
 
 | Project Name            | Website                                | Findings                | Report                                                                                   |
 |-------------------------|----------------------------------------|-------------------------|------------------------------------------------------------------------------------------|
+| Principal Protocol           | [prnpl.io](https://prnpl.io/) | 4 High, 6 Medium, 12 Low | [📄](https://blockhat.io/report-pdfs/01JQA1VPR05Q7WVZKEJ0BDNVW3.pdf) |
 | Smart Staking           | [smartstaking.io](https://smartstaking.io/) | 5 High, 7 Medium, 2 Low | [📄](https://blockhat.io/report-pdfs/01JH958TB16JYASTSQQV0Z0WBX.pdf) |
 | Clixpesa                | [clixpesa.com](https://clixpesa.com/)  | 9 High, 7 Medium, 10 Low | [📄](https://blockhat.io/report-pdfs/01JF3Q4XTA29TNHECH5XA11R7H.pdf) |
 | BlockPark               | [theblockpark.com](https://blockpark.gitbook.io/proptoken) | 3 Medium, 6 Low          | [📄](https://blockhat.io/report-pdfs/01JF3QCYFHKYMC6FDW31SGRWDY.pdf) |
@@ -24,6 +25,7 @@
 | SHEER                  | [worksheer.com](https://worksheer.com/) | 7 High, 2 Medium | [📄](https://blockhat.io/report-pdfs/01JH95E7W13F7Y2Z92FZXKCNNJ.pdf) |
 | Gamezland           | [gamezland.io](http://www.gamezland.io/) | 4 High, 1 Medium     | [📄](https://blockhat.io/report-pdfs/01JH95N5GAA5BG3C47TD5342AN.pdf) |
 | MADNFT 1.0        | [madnft.io](https://madnft.io) | 2 High, 2 Medium     | [📄](https://blockhat.io/report-pdfs/01JF3Q9QG7WRDVX97670Q1M3YC.pdf) |
+
 
 
 
