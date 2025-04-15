@@ -7,8 +7,9 @@
 |Project|Description|Findings|Report|
 |-------|-----------|--------|------|
 |LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://www.auditone.io/audit-report/leveragex-audit)|
-|Omni Bridge|Near, Abstraction (Rust)|TBD|[📄]()|
+|Omni Bridge|Near, Abstraction (Rust)|1 H, 3 L|[📄]()|
 |Dark Mythos |ERC1155,Sales.. |TBD|[📄]()|
+|Flatforflip  |Token, locking, Vesting |TBD|[📄]()|
 
 
 ### Blockhat 
