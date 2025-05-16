@@ -9,7 +9,7 @@
 |LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://www.auditone.io/audit-report/leveragex-audit)|
 |Omni Bridge|Near, Abstraction (Rust)|1 H, 3 L|[📄](https://app.auditone.io/u/enami)|
 |Safura |Clean Fork, diff audit |1 M, 5 L|[📄](https://app.auditone.io/u/enami)|
-|Dark Mythos |ERC1155,Sales.. |TBD|[📄](https://app.auditone.io/u/enami)|
+|Dark Mythos |ERC1155,Sales.. |3 M,5 L|[📄](https://app.auditone.io/u/enami)|
 |Flatforflip  |Token, locking, Vesting |TBD|[📄](https://app.auditone.io/u/enami)|
 
 
