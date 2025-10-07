@@ -9,9 +9,11 @@
 |LeverageX|Perpetuals|3 H, 4 M, 13 L|[📄](https://www.auditone.io/audit-report/leveragex-audit)|
 |Omni Bridge|Near, Abstraction (Rust)|1 H, 3 L|[📄](https://app.auditone.io/u/enami)|
 |Aurora BTC Light Client  2  |Near, Litecoin, Bitcoin, Dogecoing & Zcash support (Rust) |2 H, 1 M, 4 L|[📄](https://app.auditone.io/u/enami)|
+|Aurora Launchpad  |Near, Launchpad |3 H, 3M, 10L|[📄](https://app.auditone.io/u/enami)|
 |Safura |Clean Fork, diff audit |1 M, 5 L|[📄](https://app.auditone.io/u/enami)|
 |Dark Mythos |ERC1155,Sales.. |3 M,5 L|[📄](https://app.auditone.io/u/enami)|
-|Flatforflip  |Token, locking, Vesting |TBD|[📄](https://app.auditone.io/u/enami)|
+|Flatforflip  |Token, locking, Vesting |1M,1L|[📄](https://app.auditone.io/u/enami)|
+|Soonami Foundance (SNI)  |Token, Vesting |1M, 9L|[📄](https://app.auditone.io/u/enami)|
 
 
 ### Blockhat 
